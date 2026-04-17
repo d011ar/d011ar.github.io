@@ -1,0 +1,17 @@
+title: Meiyuan's Blog
+description: Personal homepage, research notes, and technical blog posts.
+baseurl: ""
+url: "https://d011ar.github.io"
+github_username: d011ar
+author: Meiyuan Wen
+theme: minima
+plugins:
+  - jekyll-feed
+header_pages:
+  - index.md
+  - about.md
+  - posts.md
+show_excerpts: true
+minima:
+  social_links:
+    github: d011ar
