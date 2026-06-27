@@ -7,7 +7,7 @@ tags: [World Model, Reinforcement Learning, Embodied Intelligence, Video Generat
 toc: true
 ---
 
-从 World Models 到 PlaNet 再到 DreamerV3 这三篇文章的经典组合，是快速建立对世界模型（World Model）整体认知框架的阅读笔记。
+从 World Models 到 PlaNet 再到 DreamerV3 ，本文通过这三篇经典文章的阅读笔记快速建立对世界模型（World Model）整体认知框架。
 
 ## 摘要
 
